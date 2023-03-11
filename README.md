@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dalia-21
-- 👀 I’m interested in all things programming, computer science and maths!
-- 🌱 I’m currently learning C, micropython and the concepts of HDL through Nand2Tetris.
-- 💞️ I’m looking to collaborate on pretty much any small scale projects that I can wrap my head around for now.
-- 📫 How to reach me: I'll fill this in once I have an email address I'm happy to share.
+- 👀 I’m interested in all things programming, computer science and maths! I'm studying a Masters of IT at the moment.
+- 🌱 I’m currently learning C, MicroPython and the concepts of HDL through Nand2Tetris in my spare time.
+- 💞️ I’m looking to collaborate on open source projects. I'm working on some personal projects and independent game development in my spare time too.
+- 📫 How to reach me: daliasinclair21@gmail.com
 
 <!---
 Dalia-21/Dalia-21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
