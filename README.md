@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dalia-21
-- 👀 I’m interested in all things programming, computer science and maths! I'm studying a Masters of IT at the moment.
-- 🌱 I’m currently learning C, MicroPython and the concepts of HDL through Nand2Tetris in my spare time.
+- 👀 I’m interested in all things programming, computer science and maths! I'm studying a Graduate Certificate of IT at the moment.
+- 🌱 I’m currently learning JavaFX, Spring and anything I can get my hands on related to software design, OOP, and program flow.
 - 💞️ I’m looking to collaborate on open source projects. I'm working on some personal projects and independent game development in my spare time too.
 - 📫 How to reach me: daliasinclair21@gmail.com
 
